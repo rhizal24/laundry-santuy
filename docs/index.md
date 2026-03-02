@@ -58,14 +58,35 @@ Mengembangkan **aplikasi laundry berbasis mobile** yang mengintegrasikan proses 
 
 ### ✨ Rancangan Fitur
 
-| Fitur                                  | Keterangan                                                                                                           |
-| -------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| ** Pemesanan dan Penjadwalan Laundry** | • Pilih jenis layanan (cuci, setrika, express)<br>• Atur jadwal antar-jemput sesuai waktu pengguna                   |
-| ** Tracking Antar-Jemput Real-Time**   | • Menampilkan posisi kurir di peta<br>• Status: menjemput → di laundry → diantar ke pelanggan                        |
-| ** Status Proses Laundry**             | • Update otomatis: diterima, dicuci, disetrika, selesai<br>• Ditampilkan langsung di aplikasi                        |
-| ** Estimasi Waktu Selesai**            | • Estimasi waktu berdasarkan jenis layanan<br>• Update otomatis jika ada perubahan                                   |
-| ** Notifikasi Otomatis**               | • Pemberitahuan saat kurir jalan, laundry selesai, dan siap diantar<br>• Mengurangi komunikasi manual (chat/telepon) |
-| ** Manajemen Riwayat & Jadwal**        | • Riwayat transaksi laundry<br>• Pengingat laundry rutin untuk mencegah penumpukan cucian                            |
+#### 📦 Pemesanan dan Penjadwalan Laundry
+
+- Pilih jenis layanan (cuci, setrika, express)
+- Atur jadwal antar-jemput sesuai waktu pengguna
+
+#### 🗺️ Tracking Antar-Jemput Real-Time
+
+- Menampilkan posisi kurir di peta
+- Status: menjemput → di laundry → diantar ke pelanggan
+
+#### 📊 Status Proses Laundry
+
+- Update otomatis: diterima, dicuci, disetrika, selesai
+- Ditampilkan langsung di aplikasi
+
+#### ⏱️ Estimasi Waktu Selesai
+
+- Estimasi waktu berdasarkan jenis layanan
+- Update otomatis jika ada perubahan
+
+#### 🔔 Notifikasi Otomatis
+
+- Pemberitahuan saat kurir jalan, laundry selesai, dan siap diantar
+- Mengurangi komunikasi manual (chat/telepon)
+
+#### 📋 Manajemen Riwayat & Jadwal
+
+- Riwayat transaksi laundry
+- Pengingat laundry rutin untuk mencegah penumpukan cucian
 
 ### 🌟 Unique Value Proposition
 
