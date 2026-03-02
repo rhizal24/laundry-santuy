@@ -100,46 +100,73 @@ Mengembangkan **aplikasi laundry berbasis mobile** yang mengintegrasikan proses 
 
 ### Kompetitor 1: Evewash Laundry
 
-| Kategori             | Detail                                                                                                                                  |
-| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| **Jenis Kompetitor** | Direct Competitors                                                                                                                      |
-| **Jenis Produk**     | Produk Jasa                                                                                                                             |
-| **Target Customer**  | Masyarakat Umum di wilayah Solo                                                                                                         |
-| **Kelebihan**        | ✅ Multi-platform<br>✅ Sistem tracking real-time<br>✅ Fitur penjadwalan yang fleksibel                                                |
-| **Kekurangan**       | ❌ Cakupan hanya daerah Solo<br>❌ Stabilitas aplikasi masih dalam tahap awal<br>❌ Hanya untuk Evewash Laundry saja, bukan untuk mitra |
+| Kategori             | Detail                          |
+| -------------------- | ------------------------------- |
+| **Jenis Kompetitor** | Direct Competitors              |
+| **Jenis Produk**     | Produk Jasa                     |
+| **Target Customer**  | Masyarakat Umum di wilayah Solo |
+
+**Kelebihan:**
+
+- ✅ Multi-platform
+- ✅ Sistem tracking real-time
+- ✅ Fitur penjadwalan yang fleksibel
+
+**Kekurangan:**
+
+- ❌ Cakupan hanya daerah Solo
+- ❌ Stabilitas aplikasi masih dalam tahap awal
+- ❌ Hanya untuk Evewash Laundry saja, bukan untuk mitra
 
 **Key Competitive Advantage:**  
-Keunggulan Evewash terletak pada **Customer Empowerment**, yang memberikan kendali penuh kepada pelanggan melalui aplikasi multi-platform, mulai dari menentukan jadwal, memilih metode mencuci secara detail, memantau proses secara real-time, hingga fleksibilitas dalam cara pengambilan (delivery atau self pick-up).
+Keunggulan Evewash terletak pada **Customer Empowerment**, yang memberikan kendali penuh kepada pelanggan melalui aplikasi multi-platform.
 
 ---
 
 ### Kompetitor 2: Bilas Outlet
 
-| Kategori             | Detail                                                                                           |
-| -------------------- | ------------------------------------------------------------------------------------------------ |
-| **Jenis Kompetitor** | Direct Competitors                                                                               |
-| **Jenis Produk**     | Produk Jasa                                                                                      |
-| **Target Customer**  | Masyarakat Umum                                                                                  |
-| **Kelebihan**        | ✅ Menggunakan jaringan mitra penyedia laundry<br>✅ Memiliki fitur manajemen laundry            |
-| **Kekurangan**       | ❌ Hanya menyediakan pengemudi dari penyedia layanan<br>❌ Aplikasi hanya untuk penyedia laundry |
+| Kategori             | Detail             |
+| -------------------- | ------------------ |
+| **Jenis Kompetitor** | Direct Competitors |
+| **Jenis Produk**     | Produk Jasa        |
+| **Target Customer**  | Masyarakat Umum    |
+
+**Kelebihan:**
+
+- ✅ Menggunakan jaringan mitra penyedia laundry
+- ✅ Memiliki fitur manajemen laundry
+
+**Kekurangan:**
+
+- ❌ Hanya menyediakan pengemudi dari penyedia layanan
+- ❌ Aplikasi hanya untuk penyedia laundry
 
 **Key Competitive Advantage:**  
-Bilas Outlet lebih unggul dalam **Business Management**. Bilas Outlet memungkinkan penyedia jasa laundry untuk melakukan manajemen layanan, mulai dari pencatatan transaksi laundry, manajemen pengantaran dan penjemputan, hingga manajemen karyawan.
+Bilas Outlet lebih unggul dalam **Business Management** untuk manajemen layanan laundry.
 
 ---
 
 ### Kompetitor 3: Gojek
 
-| Kategori             | Detail                                                                                                                                                                                   |
-| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Jenis Kompetitor** | Indirect Competitors                                                                                                                                                                     |
-| **Jenis Produk**     | Produk Jasa                                                                                                                                                                              |
-| **Target Customer**  | Masyarakat Umum                                                                                                                                                                          |
-| **Kelebihan**        | ✅ Sudah memiliki jaringan mitra pengemudi yang luas di berbagai provinsi<br>✅ Memiliki pengguna yang banyak<br>✅ Menghadirkan banyak promo sehingga lebih cepat menarik pengguna baru |
-| **Kekurangan**       | ❌ Belum ada layanan untuk pengantaran laundry<br>❌ Pengguna tidak dapat memilih pengemudi dan sebaliknya                                                                               |
+| Kategori             | Detail               |
+| -------------------- | -------------------- |
+| **Jenis Kompetitor** | Indirect Competitors |
+| **Jenis Produk**     | Produk Jasa          |
+| **Target Customer**  | Masyarakat Umum      |
+
+**Kelebihan:**
+
+- ✅ Sudah memiliki jaringan mitra pengemudi yang luas
+- ✅ Memiliki pengguna yang banyak
+- ✅ Menghadirkan banyak promo
+
+**Kekurangan:**
+
+- ❌ Belum ada layanan untuk pengantaran laundry
+- ❌ Pengguna tidak dapat memilih pengemudi
 
 **Key Competitive Advantage:**  
-Gojek sudah dikenal oleh masyarakat luas. Gojek memiliki mitra pengemudi yang tersebar di seluruh provinsi di Indonesia. Jika Gojek ingin menambah layanan untuk pengantaran laundry, infrastrukturnya sudah memadai dan hanya menambah mitra dari laundry saja.
+Gojek sudah dikenal masyarakat luas dengan infrastruktur mitra pengemudi di seluruh Indonesia.
 
 ---
 
@@ -188,9 +215,9 @@ Integrasi teknologi AI untuk optimasi jadwal dan estimasi waktu yang lebih presi
 
 ### 👥 CUSTOMER SEGMENTS
 
-| Target          | Early Adopters                                                                                  |
-| --------------- | ----------------------------------------------------------------------------------------------- |
-| Masyarakat umum | Mahasiswa di lingkungan kampus atau pekerja dengan mobilitas tinggi yang sering menumpuk cucian |
+**Target:** Masyarakat umum
+
+**Early Adopters:** Mahasiswa di lingkungan kampus atau pekerja dengan mobilitas tinggi yang sering menumpuk cucian
 
 ---
 
@@ -237,16 +264,14 @@ Integrasi teknologi AI untuk optimasi jadwal dan estimasi waktu yang lebih presi
 
 ## 🎓 Academic Information
 
-**Institution:** Universitas Gadjah Mada  
-**Faculty:** Fakultas Teknik  
-**Department:** Deparetemn Teknik Elektro dan Teknologi Informasi (DTETI)  
-**Course:** Senior Project  
-**Academic Year:** 2025/2026
+|                   |                                                           |
+| ----------------- | --------------------------------------------------------- |
+| **Institution**   | Universitas Gadjah Mada                                   |
+| **Faculty**       | Fakultas Teknik                                           |
+| **Department**    | Departemen Teknik Elektro dan Teknologi Informasi (DTETI) |
+| **Course**        | Senior Project                                            |
+| **Academic Year** | 2025/2026                                                 |
 
 ---
 
----
-
-Made with ❤️ by **Kelompok Random**
-
-_Laundry Santuy - Bersih, Cepat, Santuy! 🧺✨_
+> Made with ❤️ by **Kelompok Random** | _Laundry Santuy - Bersih, Cepat, Santuy!_ 🧺✨
